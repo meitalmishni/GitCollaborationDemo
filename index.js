@@ -5,5 +5,5 @@ function sum(arrayOfNumbers) {
     console.log('Sum calculated');
 }
 
-const arraySum = sum([1, 2, 3, 4,5]);
+const arraySum = sum([1, 2, 3, 4,5,6,7,8,9,10]);
 console.log(arraySum);
